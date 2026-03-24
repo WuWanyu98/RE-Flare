@@ -2,7 +2,7 @@
 
 > **This repository provides the official implementation for:** 
 >
-> Seeing Through Flare: A Real-world Event-guided Benchmark for Flare Removal in the Dark
+> Seeing Through Flare: A Real-World Benchmark for Nighttime Flare Removal with Event Cues
 >
 
 ---
